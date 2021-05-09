@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanmiljadhav
+- 👋 Hi, I’m Sanmil Jadhav
 - 👀 I’m interested in FullStackDevelopment with Python,Django,Javascript,HTML,CSS,Bootstrap
 - 🌱 I’m Looking Forward to get a Job in Webdevelopment for constant learning and improving my skills.
 
